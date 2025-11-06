@@ -2,9 +2,6 @@
 
 Prosta, ale potężna aplikacja desktopowa (Windows/Linux/macOS) do analizy danych z sondowań DPL (lekką sondą dynamiczną). Umożliwia szybkie wprowadzanie danych pomiarowych (`N₁₀`), automatyczne obliczanie wskaźnika zagęszczenia (`Id`) i stanu gruntu (`Is`) oraz generowanie profesjonalnych, gotowych do publikacji wykresów.
 
-![Przykładowy interfejs aplikacji](https://i.imgur.com/TwojeIDObrazka.png) 
-*(Sugestia: Zastąp ten link zrzutem ekranu Twojej aplikacji)*
-
 ## 🚀 Główne funkcjonalności
 
 * **Wprowadzanie danych:**
